@@ -14,3 +14,4 @@ Run worker and newTask
 ➜ go run receive/receive.go
 ```
 
+https://github.com/vit0rr/MQGorker/assets/70543018/1df1435b-3755-4a8f-8cb5-60e0539b9fbe
